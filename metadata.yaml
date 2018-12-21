@@ -1,5 +1,8 @@
 _repo: The-Manchester-and-Glasgow-Road-Volume-II-of-II-This-Way-to-Gretna-Green_58482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58482-h/images/cover.jpg
 creator:
   author:
     agent_name: Harper, Charles G. (Charles George)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58482#The-Manchester-and-Glasgow-Road-Volume-II-of-II-This-Way-to-Gretna-Green
 gutenberg_issued: '2018-12-16'
 gutenberg_type: Text
 identifiers:
